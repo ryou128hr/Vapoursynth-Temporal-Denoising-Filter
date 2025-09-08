@@ -9,7 +9,9 @@
 ```
 
 
-core.tdn.TemporalDenoise(out,radius=1, strength=1)
+
+ core.otdn.TemporalDenoiseO(clip,radius=2, strength=1)
+
 
 
 ```
